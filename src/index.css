@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  font-family: Inter, sans-serif;
+}
+
+.header {
+  background-color: #F55A5A;
+  height: 55px;
+  display: flex;
+  align-items: center; /* Align vertical */
+  justify-content: center; /* Align horizontal */
+}
+
+.header-img {
+  width: 30px;
+  margin-right: 8px;
+}
+
+.header-title {
+  color: #FFFFFF;
+  letter-spacing: -7.5%;
+  font-family: Inter;
+}
